@@ -1,0 +1,14 @@
+[13-Sep-2021 21:31:26 UTC] Astra Addon: DB version updated!
+[13-Sep-2021 21:31:26 UTC] Astra Addon: Batch Process Completed!
+[13-Sep-2021 21:32:02 UTC] Astra Addon: Batch Process Started!
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.0 - astra_addon_page_headers_support_to_builder_layout
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_headings_font_support
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_cart_color_not_working_in_old_header
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_outline_cart_bg_color_support
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_remove_header_sections_deps_new_builder
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_swap_section_not_working_in_old_header
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.8 - astra_sticky_header_site_title_tagline_css
+[13-Sep-2021 21:32:07 UTC] Astra Addon: Queuing 3.5.9 - astra_addon_remove_responsive_account_menu_colors_support
+[14-Jan-2022 15:59:24 UTC] WordPress database error Connection was killed for query SELECT option_value FROM wpyk_options WHERE option_name = '_transient_timeout_astra_addon_activated_transient' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Astra_Theme_Extension->addons_action_hooks, get_transient, get_option
+[14-Jan-2022 15:59:24 UTC] WordPress database error Connection was killed for query SELECT option_value FROM wpyk_options WHERE option_name = '_transient_timeout_astra_addon_activated_transient' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Astra_Theme_Extension->addons_action_hooks, get_transient, get_option
+[14-Jan-2022 15:59:24 UTC] WordPress database error Connection was killed for query SELECT option_value FROM wpyk_options WHERE option_name = '_transient_timeout_astra_addon_activated_transient' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Astra_Theme_Extension->addons_action_hooks, get_transient, get_option

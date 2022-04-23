@@ -1,0 +1,101 @@
+[07-Sep-2021 11:11:21 UTC] WordPress database error Table 'burnishs_wp978.wp_posts' doesn't exist for query DELETE a,b,c
+    	FROM wp_posts a
+    	LEFT JOIN wp_term_relationships b
+        ON (a.ID = b.object_id)
+    	LEFT JOIN wp_postmeta c
+        ON (a.ID = c.post_id)
+    	WHERE a.post_type = 'nav_menu_item' made by do_action('betheme_page_be-websites'), WP_Hook->do_action, WP_Hook->apply_filters, Mfn_Importer->import, Mfn_Importer->remove_menus
+[07-Sep-2021 11:12:40 UTC] WordPress database error Table 'burnishs_wp978.wp_posts' doesn't exist for query DELETE a,b,c
+    	FROM wp_posts a
+    	LEFT JOIN wp_term_relationships b
+        ON (a.ID = b.object_id)
+    	LEFT JOIN wp_postmeta c
+        ON (a.ID = c.post_id)
+    	WHERE a.post_type = 'nav_menu_item' made by do_action('betheme_page_be-websites'), WP_Hook->do_action, WP_Hook->apply_filters, Mfn_Importer->import, Mfn_Importer->remove_menus
+[07-Sep-2021 11:36:53 UTC] WordPress database error Table 'burnishs_wp978.wp_posts' doesn't exist for query DELETE a,b,c
+    	FROM wp_posts a
+    	LEFT JOIN wp_term_relationships b
+        ON (a.ID = b.object_id)
+    	LEFT JOIN wp_postmeta c
+        ON (a.ID = c.post_id)
+    	WHERE a.post_type = 'nav_menu_item' made by do_action('betheme_page_be-websites'), WP_Hook->do_action, WP_Hook->apply_filters, Mfn_Importer->import, Mfn_Importer->remove_menus
+[07-Sep-2021 15:00:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 15:01:32 UTC] PHP Warning:  unlink(/tmp/download-WnPTC7.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[07-Sep-2021 15:01:40 UTC] PHP Warning:  unlink(/tmp/download-zBCUp2.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[07-Sep-2021 15:01:47 UTC] PHP Warning:  unlink(/tmp/download-u5A1Fa.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[07-Sep-2021 15:08:10 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 15:14:11 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 15:28:17 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 15:32:22 UTC] PHP Warning:  unlink(/tmp/download-S7JI8f.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[07-Sep-2021 16:18:42 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 16:29:35 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 16:37:18 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 16:39:18 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 17:03:09 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 17:38:02 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 17:38:57 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[07-Sep-2021 18:44:57 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[08-Sep-2021 17:15:37 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[08-Sep-2021 17:36:53 UTC] PHP Warning:  unlink(/tmp/download-ogRE3v.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[12-Sep-2021 17:43:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 17:44:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 17:45:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 17:52:22 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[12-Sep-2021 18:32:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 18:34:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 18:35:05 UTC] PHP Warning:  unlink(/tmp/download-CXo58P.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[12-Sep-2021 18:44:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[12-Sep-2021 19:13:05 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[12-Sep-2021 19:25:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 19:27:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 19:34:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 19:36:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 19:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 19:40:32 UTC] PHP Warning:  unlink(/tmp/download-PLeYe6.tmp): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-upgrader.php on line 332
+[12-Sep-2021 19:41:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[12-Sep-2021 20:02:12 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[12-Sep-2021 20:06:41 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/burnishs/public_html/wp-includes/class.wp-dependencies.php on line 166
+[13-Sep-2021 10:48:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[13-Sep-2021 21:09:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burnishs/public_html/wp-content/plugins/becustom/becustom_branding.php:91) in /home/burnishs/public_html/wp-admin/admin-header.php on line 9
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Batch Process Started!
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.0 - astra_addon_page_headers_support_to_builder_layout
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_headings_font_support
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_cart_color_not_working_in_old_header
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_outline_cart_bg_color_support
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_remove_header_sections_deps_new_builder
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_swap_section_not_working_in_old_header
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.8 - astra_sticky_header_site_title_tagline_css
+[13-Sep-2021 21:31:23 UTC] Astra Addon: Queuing 3.5.9 - astra_addon_remove_responsive_account_menu_colors_support
+[13-Sep-2021 21:32:01 UTC] Astra Addon: Batch Process Started!
+[13-Sep-2021 21:32:02 UTC] Astra Addon: Running migration without batch processing.
+[13-Sep-2021 21:32:02 UTC] Astra Addon: DB version updated!
+[13-Sep-2021 21:32:09 UTC] Astra Addon: DB version updated!
+[13-Sep-2021 21:32:09 UTC] Astra Addon: Batch Process Completed!
+[22-Nov-2021 17:56:53 UTC] Astra Addon: DB version updated!
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Batch Process Started!
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.3.0 - astra_addon_page_header_parallax_device
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.3.3 - astra_addon_css_gen_multi_site_fix
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.4.0 - astra_responsive_content_background_option
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.4.0 - astra_addon_update_theme_tablet_breakpoint
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.5.0 - custom_layout_compatibility_having_code_posts
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.5.0 - astra_addon_page_header_submenu_color_options
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 2.6.0 - astra_addon_header_css_optimizations
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.0 - astra_addon_page_headers_support_to_builder_layout
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_headings_font_support
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_cart_color_not_working_in_old_header
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_outline_cart_bg_color_support
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_remove_header_sections_deps_new_builder
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_swap_section_not_working_in_old_header
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.8 - astra_sticky_header_site_title_tagline_css
+[22-Nov-2021 23:07:10 UTC] Astra Addon: Queuing 3.5.9 - astra_addon_remove_responsive_account_menu_colors_support
+[22-Nov-2021 23:07:12 UTC] Astra: Migrating Background Option - footer-bg-obj
+[22-Nov-2021 23:07:13 UTC] Astra Addon: Page Builder button compatibility: false
+[22-Nov-2021 23:07:13 UTC] Astra Addon: DB version updated!
+[22-Nov-2021 23:07:14 UTC] PHP Warning:  chmod(): No such file or directory in /home/burnishs/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[22-Nov-2021 23:07:15 UTC] Astra Addon: Batch Process Completed!
+[22-Nov-2021 23:08:03 UTC] Astra Addon: Batch Process Started!
+[22-Nov-2021 23:08:03 UTC] Astra Addon: Page Builder button compatibility: false
+[22-Nov-2021 23:08:03 UTC] Astra Addon: Running migration without batch processing.
+[22-Nov-2021 23:08:03 UTC] Astra Addon: DB version updated!
+[30-Dec-2021 11:05:31 UTC] WordPress database error Table 'burnishs_wp978.wpyk_wpmailsmtp_tasks_meta' doesn't exist for query SHOW FULL COLUMNS FROM `wpyk_wpmailsmtp_tasks_meta` made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WPMailSMTP\Core->get_tasks, WPMailSMTP\Tasks\Tasks->init, WPMailSMTP\Tasks\Reports\SummaryEmailTask->init, WPMailSMTP\Tasks\Task->register, WPMailSMTP\Tasks\Meta->add, WPMailSMTP\Tasks\Meta->add_to_db
